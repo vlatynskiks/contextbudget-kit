@@ -1,0 +1,6 @@
+{
+  "gpt-4o-mini": {"in": 0.15, "out": 0.60},
+  "gpt-4o": {"in": 2.50, "out": 10.00},
+  "claude-haiku": {"in": 0.25, "out": 1.25},
+  "claude-sonnet": {"in": 3.00, "out": 15.00}
+}
